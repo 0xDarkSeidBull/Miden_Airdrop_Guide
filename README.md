@@ -173,3 +173,20 @@ A complete **early-stage participation guide** for the **Miden ecosystem**, focu
 This is a **long-term early play**, not a one-day task list.
 Consistency + real contribution = maximum upside.
 
+## 👤 Author
+
+* **Handle:** 0xDarkSeidBull
+* **Role:** Miden_Hunter
+* **GitHub:** [https://github.com/0xDarkSeidBull](https://github.com/0xDarkSeidBull)
+* **Wallet:** `0x3bc6348e1e569e97bd8247b093475a4ac22b9fd4`
+
+
+
+## If this guide helped you:
+
+⭐ [![Stars](https://img.shields.io/github/stars/0xDarkSeidBull/iden_Airdrop_Guide)](https://github.com/0xDarkSeidBull/iden_Airdrop_Guide/stargazers)
+
+🧾 [![License](https://img.shields.io/github/license/0xDarkSeidBull/iden_Airdrop_Guide)](LICENSE)
+
+🔁 Share with new builders
+
