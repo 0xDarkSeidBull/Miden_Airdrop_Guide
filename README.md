@@ -184,9 +184,9 @@ Consistency + real contribution = maximum upside.
 
 ## If this guide helped you:
 
-⭐ [![Stars](https://img.shields.io/github/stars/0xDarkSeidBull/iden_Airdrop_Guide)](https://github.com/0xDarkSeidBull/iden_Airdrop_Guide/stargazers)
+⭐ [![Stars](https://img.shields.io/github/stars/0xDarkSeidBull/Miden_Airdrop_Guide)](https://github.com/0xDarkSeidBull/Miden_Airdrop_Guide/stargazers)
 
-🧾 [![License](https://img.shields.io/github/license/0xDarkSeidBull/iden_Airdrop_Guide)](LICENSE)
+🧾 [![License](https://img.shields.io/github/license/0xDarkSeidBull/Miden_Airdrop_Guide)](LICENSE)
 
 🔁 Share with new builders
 
