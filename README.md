@@ -43,7 +43,9 @@ A complete **early-stage participation guide** for the **Miden ecosystem**, focu
 * Connect wallet
 * Mint **Public Note**
 * Claim **100 test tokens**
-<img width="636" height="731" alt="image" src="https://github.com/user-attachments/assets/f67b4aac-a926-4d13-a508-b2e8298ce8c8" />
+<img width="690" height="374" alt="image" src="https://github.com/user-attachments/assets/32e76f53-185b-4f59-afed-70771bf7c5c5" />
+
+<img width="710" height="597" alt="image" src="https://github.com/user-attachments/assets/bfa7cdc7-6111-4799-89cb-9834fcfb76ac" />
 
 ---
 
