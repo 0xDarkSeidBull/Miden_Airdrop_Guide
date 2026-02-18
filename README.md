@@ -47,6 +47,8 @@ A complete **early-stage participation guide** for the **Miden ecosystem**, focu
 
 <img width="710" height="597" alt="image" src="https://github.com/user-attachments/assets/bfa7cdc7-6111-4799-89cb-9834fcfb76ac" />
 
+<img width="444" height="167" alt="image" src="https://github.com/user-attachments/assets/5d5da384-df1e-429d-9b02-0326bff6807c" />
+
 ---
 
 ### 3️⃣ Send Tokens
@@ -54,19 +56,8 @@ A complete **early-stage participation guide** for the **Miden ecosystem**, focu
 * Create **another Miden wallet**
 * Send tokens **between your own wallets**
 * Test multiple transfers
+<img width="370" height="452" alt="image" src="https://github.com/user-attachments/assets/a3be5bb4-5a2a-4d53-966e-7d20e01f2fb6" />
 
----
-
-### 4️⃣ Create a Faucet
-
-* Create your own faucet
-* Choose:
-
-  * **Public mode**
-  * **Private mode**
-* Interact with **both modes**
-
-> Private interactions are especially important for Miden
 
 ---
 
@@ -74,7 +65,11 @@ A complete **early-stage participation guide** for the **Miden ecosystem**, focu
 
 * Website:
   👉 [http://miden.name](http://miden.name)
+  <img width="924" height="537" alt="image" src="https://github.com/user-attachments/assets/cd655330-5de1-4042-855d-27a7b3b4b684" />
+
 * Register your **Miden domain**
+ <img width="972" height="596" alt="image" src="https://github.com/user-attachments/assets/9521ff24-6b12-47bb-87ab-3be2fdc053f3" />
+
 * Keep wallet active after registration
 
 ---
@@ -83,6 +78,10 @@ A complete **early-stage participation guide** for the **Miden ecosystem**, focu
 
 * DEX:
   👉 [http://app.zoroswap.com](http://app.zoroswap.com)
+  
+* Take Faucet:
+  <img width="574" height="723" alt="image" src="https://github.com/user-attachments/assets/0ec9e23b-7c9d-4d94-8605-8936584f5e5e" />
+
 * Swap tokens
 * Try multiple pairs if available
 
